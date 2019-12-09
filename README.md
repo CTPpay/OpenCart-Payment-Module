@@ -1,6 +1,6 @@
 # OpenCart CTPpay Payment Gateway Module #
 
-Module Available
+## Module Available ##
 
 OpenCart 2.x - 2.2.x
 
